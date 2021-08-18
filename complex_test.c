@@ -29,6 +29,7 @@ int main()
     csin(z1);
     csinh(z1);
     ccos(z2);
+    1 + 1;
 
     return 0;
 }
